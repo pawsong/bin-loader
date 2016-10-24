@@ -1,6 +1,6 @@
 # bytearray-loader
 
-Bytearray(Uint8Array) loader for webpack
+Byte Array (Uint8Array) loader for webpack
 
 ## Installation
 
