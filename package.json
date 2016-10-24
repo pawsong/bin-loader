@@ -1,5 +1,5 @@
 {
-  "name": "bytearray-loader",
+  "name": "bin-loader",
   "version": "0.1.0",
   "description": "Byte array (Uint8Array) loader for webpack",
   "main": "index.js",

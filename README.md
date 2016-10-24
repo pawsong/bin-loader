@@ -1,4 +1,4 @@
-# bytearray-loader
+# bin-loader
 
 Byte Array (Uint8Array) loader for webpack
 
@@ -11,7 +11,7 @@ Byte Array (Uint8Array) loader for webpack
 ## Usage
 
 ``` javascript
-var fileContent = require("bytearray!./file.bin");
+var fileContent = require("bin!./file.bin");
 // => returns file.bin content as Uint8Array
 ```
 
