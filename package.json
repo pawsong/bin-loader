@@ -1,0 +1,11 @@
+{
+  "name": "bytearray-loader",
+  "version": "0.1.0",
+  "description": "Bytearray(Uint8Array) loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giff Song <giff.song@gmail.com>",
+  "license": "MIT"
+}
