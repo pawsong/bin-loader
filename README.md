@@ -1,5 +1,7 @@
 # bin-loader
 
+[![NPM Version][npm-image]][npm-url]
+
 Byte Array (Uint8Array) loader for webpack
 
 ## Installation
@@ -22,3 +24,6 @@ Francisco Baio Dias (@xicombd) for code from his [buffer-loader](https://github.
 ## License
 
 MIT
+
+[npm-image]: https://img.shields.io/npm/v/bin-loader.svg
+[npm-url]: https://npmjs.org/package/bin-loader
